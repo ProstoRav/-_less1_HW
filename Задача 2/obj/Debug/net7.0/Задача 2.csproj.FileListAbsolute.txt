@@ -1,0 +1,15 @@
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\bin\Debug\net7.0\Задача 2.exe
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\bin\Debug\net7.0\Задача 2.deps.json
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\bin\Debug\net7.0\Задача 2.runtimeconfig.json
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\bin\Debug\net7.0\Задача 2.dll
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\bin\Debug\net7.0\Задача 2.pdb
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\obj\Debug\net7.0\Задача 2.csproj.AssemblyReference.cache
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\obj\Debug\net7.0\Задача 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\obj\Debug\net7.0\Задача 2.AssemblyInfoInputs.cache
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\obj\Debug\net7.0\Задача 2.AssemblyInfo.cs
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\obj\Debug\net7.0\Задача 2.csproj.CoreCompileInputs.cache
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\obj\Debug\net7.0\Задача 2.dll
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\obj\Debug\net7.0\refint\Задача 2.dll
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\obj\Debug\net7.0\Задача 2.pdb
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\obj\Debug\net7.0\Задача 2.genruntimeconfig.cache
+C:\Users\hi-ra\OneDrive\Рабочий стол\Прогр\Лекция 1 Контроль версий\git_edu\c_less1\HW\Задача 2\obj\Debug\net7.0\ref\Задача 2.dll
